@@ -126,7 +126,7 @@ By integrating a web-based interface, the system provides real-time predictions 
 ---
 
 ## 🗂️ Data sets
-* This project was created during and Internship.
+* This project was created during an Internship.
 * If you want to use the data that I have used, you can contact me.
 
 ---
